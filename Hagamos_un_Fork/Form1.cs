@@ -19,7 +19,7 @@ namespace Hagamos_un_Fork
 
         private void btnAccion_Click(object sender, EventArgs e)
         {
-            lblResultado.Text = "Estoy esperando el merge de quien haga un fork";
+            lblResultado.Text = "Ya van llegando los Pull Request";
             lblIntro.Text = txtIntro.Text;
         }
     }
