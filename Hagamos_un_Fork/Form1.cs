@@ -19,6 +19,7 @@ namespace Hagamos_un_Fork
 
         private void btnAccion_Click(object sender, EventArgs e)
         {
+        // Código nuevo
             lblResultado.Text = "Ya van llegando los Pull Request";
             lblIntro.Text = txtIntro.Text;
         }
