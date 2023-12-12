@@ -1,0 +1,10 @@
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\bin\Debug\Hagamos_un_Fork.exe.config
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\bin\Debug\Hagamos_un_Fork.exe
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\bin\Debug\Hagamos_un_Fork.pdb
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.csproj.AssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.Hagamos_un_Fork.resources
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.exe
+C:\Users\angel\OneDrive\Documentos\CODIGO_DAW_2023_24\z_Pozo\Hagamos_un_Fork\Hagamos_un_Fork\obj\Debug\Hagamos_un_Fork.pdb
