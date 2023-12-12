@@ -31,15 +31,18 @@
             this.lblTitulo = new System.Windows.Forms.Label();
             this.btnAccion = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.txtIntro = new System.Windows.Forms.TextBox();
+            this.lblIntro = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // lblTitulo
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Calibri", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitulo.ForeColor = System.Drawing.Color.White;
             this.lblTitulo.Location = new System.Drawing.Point(24, 31);
             this.lblTitulo.Name = "lblTitulo";
-            this.lblTitulo.Size = new System.Drawing.Size(473, 71);
+            this.lblTitulo.Size = new System.Drawing.Size(394, 59);
             this.lblTitulo.TabIndex = 0;
             this.lblTitulo.Text = "¡Hagamos un Fork!";
             // 
@@ -47,7 +50,7 @@
             // 
             this.btnAccion.BackColor = System.Drawing.Color.LawnGreen;
             this.btnAccion.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.btnAccion.Location = new System.Drawing.Point(171, 105);
+            this.btnAccion.Location = new System.Drawing.Point(34, 93);
             this.btnAccion.Name = "btnAccion";
             this.btnAccion.Size = new System.Drawing.Size(144, 42);
             this.btnAccion.TabIndex = 1;
@@ -58,18 +61,40 @@
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(27, 271);
+            this.lblResultado.Font = new System.Drawing.Font("Calibri", 14F);
+            this.lblResultado.ForeColor = System.Drawing.Color.White;
+            this.lblResultado.Location = new System.Drawing.Point(27, 208);
             this.lblResultado.Name = "lblResultado";
-            this.lblResultado.Size = new System.Drawing.Size(41, 39);
-            this.lblResultado.TabIndex = 2;
-            this.lblResultado.Text = "...";
+            this.lblResultado.Size = new System.Drawing.Size(674, 42);
+            this.lblResultado.TabIndex = 0;
+            this.lblResultado.Text = "Estoy esperando el merge de quien haga un fork";
+            // 
+            // txtIntro
+            // 
+            this.txtIntro.Location = new System.Drawing.Point(196, 98);
+            this.txtIntro.Name = "txtIntro";
+            this.txtIntro.Size = new System.Drawing.Size(396, 47);
+            this.txtIntro.TabIndex = 2;
+            // 
+            // lblIntro
+            // 
+            this.lblIntro.AutoSize = true;
+            this.lblIntro.Font = new System.Drawing.Font("Calibri", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblIntro.ForeColor = System.Drawing.Color.White;
+            this.lblIntro.Location = new System.Drawing.Point(27, 153);
+            this.lblIntro.Name = "lblIntro";
+            this.lblIntro.Size = new System.Drawing.Size(41, 39);
+            this.lblIntro.TabIndex = 0;
+            this.lblIntro.Text = "...";
             // 
             // Hagamos_un_Fork
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 39F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(643, 410);
+            this.ClientSize = new System.Drawing.Size(643, 303);
+            this.Controls.Add(this.lblIntro);
+            this.Controls.Add(this.txtIntro);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnAccion);
             this.Controls.Add(this.lblTitulo);
@@ -88,6 +113,9 @@
         private System.Windows.Forms.Label lblTitulo;
         private System.Windows.Forms.Button btnAccion;
         private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.TextBox txtIntro;
+        private System.Windows.Forms.Label lblIntro;
     }
 }
+
 
