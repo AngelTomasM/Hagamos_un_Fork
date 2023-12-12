@@ -19,7 +19,7 @@ namespace Hagamos_un_Fork
 
         private void btnAccion_Click(object sender, EventArgs e)
         {
-        // Código nuevo
+        // Cambio para hacer un pull request desde GitHub
             lblResultado.Text = "Ya van llegando los Pull Request";
             lblIntro.Text = txtIntro.Text;
         }
